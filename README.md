@@ -1,2 +1,2 @@
 # kaggle
-git@github.com:dondakeshimo/kaggle-global-wheat-detection.git
+https://www.kaggle.com/c/global-wheat-detection
