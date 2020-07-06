@@ -1,0 +1,2 @@
+csv_path:
+  train: "../../data/input/global-wheat-detection/train.csv"
